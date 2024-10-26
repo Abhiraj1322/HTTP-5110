@@ -18,7 +18,7 @@ For more information on web development, visit [W3Schools](https://www.w3schools
 
 ## Images
 
-![Web Development Process](./web_development_process.jpg)
+![Web Development Process](./main-cover-01.webp)
 
 ***Important Notice:*** This repository contains materials and assignments related to the course. Mastering web development concepts is essential for building effective web applications.
 
